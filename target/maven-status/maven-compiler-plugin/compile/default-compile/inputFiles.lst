@@ -4,11 +4,14 @@ D:\java\project\lbytech.cn\user-center-backend-master\src\main\java\com\yupi\use
 D:\java\project\lbytech.cn\user-center-backend-master\src\main\java\com\yupi\usercenter\model\domain\User.java
 D:\java\project\lbytech.cn\user-center-backend-master\src\main\java\com\yupi\usercenter\service\impl\UserServiceImpl.java
 D:\java\project\lbytech.cn\user-center-backend-master\src\main\java\com\yupi\usercenter\mapper\UserMapper.java
+D:\java\project\lbytech.cn\user-center-backend-master\src\main\java\com\yupi\usercenter\config\CorsConfig.java
 D:\java\project\lbytech.cn\user-center-backend-master\src\main\java\com\yupi\usercenter\service\UserService.java
 D:\java\project\lbytech.cn\user-center-backend-master\src\main\java\com\yupi\usercenter\UserCenterApplication.java
+D:\java\project\lbytech.cn\user-center-backend-master\src\main\java\com\yupi\usercenter\mapper\InviteCodeMapper.java
 D:\java\project\lbytech.cn\user-center-backend-master\src\main\java\com\yupi\usercenter\contant\UserConstant.java
 D:\java\project\lbytech.cn\user-center-backend-master\src\main\java\com\yupi\usercenter\exception\BusinessException.java
 D:\java\project\lbytech.cn\user-center-backend-master\src\main\java\com\yupi\usercenter\common\BaseResponse.java
 D:\java\project\lbytech.cn\user-center-backend-master\src\main\java\com\yupi\usercenter\controller\UserController.java
+D:\java\project\lbytech.cn\user-center-backend-master\src\main\java\com\yupi\usercenter\model\domain\InviteCode.java
 D:\java\project\lbytech.cn\user-center-backend-master\src\main\java\com\yupi\usercenter\model\domain\request\UserRegisterRequest.java
 D:\java\project\lbytech.cn\user-center-backend-master\src\main\java\com\yupi\usercenter\exception\GlobalExceptionHandler.java
